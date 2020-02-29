@@ -1,12 +1,12 @@
 spring:
   mail:
     host: smtp.163.com #SMTP服务器地址
-    username: xzy1415841836@163.com #邮箱登陆账号
-    password: 923615xzy #授权码
+    username: xxxxxx@163.com #邮箱登陆账号
+    password: xxxxxxx #授权码
     port: 465
     protocol: smtp
     properties:
-      from: xzy1415841836@163.com #邮件发信人（即真实邮箱）
+      from: xxxxxxx3.com #邮件发信人（即真实邮箱）
       mail:
         smtp:
           auth: true
